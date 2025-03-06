@@ -6,7 +6,7 @@ Dataset com estatísticas mensais sobre transações de pagamento no Brasil, col
 [Link para o dataset](https://docs.google.com/spreadsheets/d/1py2jGg9y4raWJ-fr7p97lyWfchzWXZzc3u8F2V9WvYc/edit?usp=sharing)
 
 ## Colunas
-- `YearMonth`: Mês de referência (AAAAMM).
+- `YearMonth`: Mês e ano (AAAAMM).
 - `quantityPix`, `valuePix`: Número e valor total das transações PIX.
 - `quantityTED`, `valueTED`: Número e valor total das transações TED.
 - `quantityTEC`, `valueTEC`: Número e valor total das transações TEC.
